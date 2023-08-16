@@ -2,6 +2,7 @@
 Additional Resources for ISES23
 
 Full Author List:
+
 Sakshi Handa1, Kenta Baron-Furuyama2, Katherine Phillips3, Taylor Wall1, Mary Horton4, Christian Lutz4, Allison Larger5, Kristin Isaacs6, Colleen Elonen7
 
 1 US Environmental Protection Agency, Biologist, Durham, USA. 
