@@ -6,11 +6,17 @@ Full Author List:
 Sakshi Handa1, Kenta Baron-Furuyama2, Katherine Phillips3, Taylor Wall1, Mary Horton4, Christian Lutz4, Allison Larger5, Kristin Isaacs6, Colleen Elonen7
 
 1 US Environmental Protection Agency, Biologist, Durham, USA. 
+
 2 US Environmental Protection Agency, Software Developer, Durham, USA. 
+
 3 US Environmental Protection Agency, Physical Scientist, Durham, USA. 
+
 4 Oak Ridge Associated Universities, Data Curator, Durham, USA. 
+
 5 General Dynamics Information Technology, Data Curator, Durham, USA. 
+
 6 US Environmental Protection Agency, Research Physical Scientist, Durham, USA. 
+
 7 US Environmental Protection Agency, Supervisory Biologist, Duluth, USA
 
 
